@@ -10,5 +10,3 @@ jobs:
   build:
     uses: canonical/observability/.github/workflows/rock-release-oci-factory.yaml@v2
     secrets: inherit
-    with:
-      rock-name: kiali
