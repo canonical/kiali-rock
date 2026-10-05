@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Moved to https://github.com/canonical/service-mesh/tree/main/rocks/kiali-rock.
+> This repo is no longer maintained.
+
+
 # kiali-rock
 
 
